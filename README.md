@@ -7,9 +7,10 @@ This repository contains the code for the paper:
 
 
 ## Files
-- `Mixed_RLdefendFL4.ipynb` — Main notebook for the Meta-Stackelberg robust FL defense.
-- `BackdoorFL_cifar10.ipynb` — RL-based backdoor attack baseline on CIFAR-10.
-- `BackdoorFL_mnist.ipynb` — RL-based backdoor attack baseline on MNIST.
+- [`Mixed_RLdefendFL4.ipynb`](./Mixed_RLdefendFL4.ipynb) — Main notebook for the Meta-Stackelberg robust FL defense.
+- [`GAN_BackdoorFL_cifar10.ipynb`](./GAN_BackdoorFL_cifar10.ipynb) — **GAN-based** backdoor attack baseline on CIFAR-10 (for comparison/ablation).
+- [`GAN_BackdoorFL_mnist.ipynb`](./GAN_BackdoorFL_mnist.ipynb) — **GAN-based** backdoor attack baseline on MNIST (for comparison/ablation).
+
 
 
 ## Related Work
