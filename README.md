@@ -11,6 +11,7 @@ This repository contains the code for the paper:
 - [`GAN_BackdoorFL_cifar10.ipynb`](./GAN_BackdoorFL_cifar10.ipynb) — **GAN-based** backdoor attack baseline on CIFAR-10 (for comparison/ablation).
 - [`GAN_BackdoorFL_mnist.ipynb`](./GAN_BackdoorFL_mnist.ipynb) — **GAN-based** backdoor attack baseline on MNIST (for comparison/ablation).
 - [`DIFF_BackdoorFL_cifar10.ipynb`](./DIFF_BackdoorFL_cifar10.ipynb) — **Diffusion-based** backdoor attack baseline on CIFAR-10 (for comparison/ablation).
+- [`RE_NeuralCleanse_Backdoor.ipynb`](./RE_NeuralCleanse_Backdoor.ipynb) — **Reverse engineering** of backdoor triggers using **Neural Cleanse (ART)**; reconstructs trigger pattern/mask and visualizes sensitivity.
 
 
 
