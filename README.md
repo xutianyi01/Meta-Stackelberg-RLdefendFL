@@ -27,3 +27,6 @@ For more **code-level details** (attack implementations and training procedures)
 - Henger Li, Chen Wu, Sencun Zhu, Zizhan Zheng. **Learning to Backdoor Federated Learning.** *ICLR 2023 Workshop on Backdoor Attacks and Defenses in Machine Learning (BANDS).*  
   arXiv: https://arxiv.org/abs/2303.03320
   Code: https://github.com/HengerLi/RLBackdoorFL
+
+## License
+Released under the [MIT License](./LICENSE).
