@@ -28,7 +28,7 @@ For more **code-level details** (attack implementations and training procedures)
   arXiv: https://arxiv.org/abs/2303.03320
   Code: https://github.com/HengerLi/RLBackdoorFL
 
-- Henger Li, Zizhan Zheng. **Meta-Reinforcement Learning for Moving Target Defense (MTD).**  
+- Henger Li, Zizhan Zheng. **Meta-Reinforcement Learning for Moving Target Defense (MTD).** *Decision and Game Theory for Security (GameSec)*.  
   Paper: https://dl.acm.org/doi/10.1007/978-3-031-26369-9_6
   Code: https://github.com/HengerLi/Meta-RL-for-MTD  
 
